@@ -1,4 +1,4 @@
-# Beautify_GAN
+# Meta_Learned_GAN
 
 Multi domain : Meta GAN
 
